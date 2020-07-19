@@ -1,0 +1,9 @@
+package demo.dragon;
+
+import java.lang.Number;
+
+rule "DanasBanka1"
+	dialect "mvel"
+	when
+	then
+end
